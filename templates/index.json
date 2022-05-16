@@ -1,5 +1,21 @@
 {
   "sections": {
+    "1652668387e1f3ffbe": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "e-bikes",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "video": {
       "type": "video",
       "settings": {
@@ -176,31 +192,15 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
-    },
-    "1652668387e1f3ffbe": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "collection": "e-bikes",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
-      }
     }
   },
   "order": [
+    "1652668387e1f3ffbe",
     "video",
     "image_banner",
     "rich_text",
     "featured_products",
     "collage",
-    "multi_column",
-    "1652668387e1f3ffbe"
+    "multi_column"
   ]
 }
